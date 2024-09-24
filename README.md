@@ -17,9 +17,10 @@ A mobile-first product launch landing page designed to engage visitors and drive
 
 **Getting Started:**
 - Clone the repository:
-  - _git clone https://github.com/your-username/your-repo-name.git_
+  - _git clone https://github.com/Prokopovych16/landing_kickstarter.git_
 - Navigate to the project folder:
   - _cd your-repo-name_
 - Install dependencies:
   - _npm install_
-- Run the project: Open the index.html file in your browser or use a local server setup to view the project live.
+- Run the project:
+  - _npm start_
